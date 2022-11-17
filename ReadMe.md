@@ -1,6 +1,8 @@
 [![CI](https://github.com/ElsarChabaev/icomify-webtech/actions/workflows/tests.yml/badge.svg)](https://github.com/ElsarChabaev/icomify-webtech/actions/workflows/tests.yml)
 
-#icomify.de
+# icomify.de
+
+
 Icomify ist ein Kleingewerbe, dass rundum Hilfe für die Bereiche Dropshipping und Online Marketing, in Deutschland anbietet.
 Darunter fällt z.B. einen eigenen Onlinshop aufzubauen, Produkte zu digitalisieren und das Marketing zu gestalten. Hierfür gibt es die Homepage icomify.de.
 
